@@ -1,4 +1,4 @@
-import "./Register.css";
+import "./Login.css";
 import Navbar from "./Navbar";
 
 const Register = () => {
